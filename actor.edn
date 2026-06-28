@@ -1,0 +1,8 @@
+{:did        "did:web:etzhayyim.github.io:com-etzhayyim-shiori"
+ :handle     "shiori.etzhayyim.com"
+ :ipns-key   "shiori-actor"
+ :graph-type "com.etzhayyim.shiori.graph"
+ :published  "2026-06-28"
+ :bundle [["data" "data"]
+          [".well-known/did.json" "did.json"]
+          ["README.md" "README.md"]]}
